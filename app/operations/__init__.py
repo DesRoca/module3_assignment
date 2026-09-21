@@ -1,4 +1,4 @@
-class Operation:
+class Operations:
     """
     This class contains static methods for basic arithmetic operations: addition, subtraction, multiplication, and division.
     Each method takes two float arguments and returns a float result. 
